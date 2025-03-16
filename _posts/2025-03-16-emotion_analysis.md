@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Multimodal Emotional Analysis"
 date: 2026-03-16
 ---
