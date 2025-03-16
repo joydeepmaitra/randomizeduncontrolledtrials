@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Randomized Uncontrolled Trials
+title: home
 ---
 
 I will share some of my thoughts and experiments that I do outside of my "official" work.
