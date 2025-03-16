@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multimodal Emotional Analysis"
-date: 2026-03-16
+date: 2025-03-16
 ---
 
 I wanted to make a decently accurate emotional state detector using audio on a Raspberry Pi.
